@@ -15,11 +15,11 @@
 - 🌟 或者签名工具签名注入使用（[轻松签+](https://esing.yyyue.xyz/)等其他签名工具）
 
 ## 人脸验证
-![Screenshot](./image/1.png)
+<img src="./image/1.png" alt="Screenshot" width="222" height="480"/>
 
 ## 后台蒙层
-![Screenshot](./image/2.png)
+<img src="./image/2.png" alt="Screenshot" width="222" height="480"/>
 
 # 手势密码
-![Screenshot](./image/3.png)
-![Screenshot](./image/4.png)
+<img src="./image/3.png" alt="Screenshot" width="222" height="480"/>
+<img src="./image/4.png" alt="Screenshot" width="222" height="480"/>
