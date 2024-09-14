@@ -1,6 +1,6 @@
 # LPAppLock 给任意APP添加人脸和手势解锁
 
-[now-on-havoc]: https://havoc.app/package/LPAppLock
+[now-on-havoc]: https://havoc.app/package/lpapplock
 
 [<img width="150" src="https://docs.havoc.app/img/badges/get_square.svg" />][now-on-havoc]
 
