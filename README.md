@@ -5,12 +5,12 @@
 [<img width="150" src="https://docs.havoc.app/img/badges/get_square.svg" />][now-on-havoc]
 
 ## 功能说明 Function Description
-- 🌟 **人脸解锁优先**：如果APP支持人脸识别，将优先使用人脸解锁；否则，将使用手势密码解锁。
-- 🌟 **隐私保护**：当APP退到后台时，会显示透明蒙层，提供更好的隐私保护效果。
+- 🌟 **解锁方式**：支持面容ID解锁（需要APP支持，有些APP不支持）和手势密码解锁。
+- 🌟 **隐私保护**：当APP退到后台时，会显示蒙层（可选白色和半透明色），提供更好的隐私保护效果。
 - 🌟 **无版本限制**：该APP没有iOS版本限制和APP限制，适用于所有版本和应用。
 - 🌟 **支持的语言**：目前只支持中文和英文
-- 🌟 **Face unlock priority**: If the APP supports faceID recognition, the APP will prioritize face unlocking; otherwise, it will use gesture password unlocking.
-- 🌟 **Privacy protection**: When the APP retreats to the background, a transparent mask will be displayed to provide better privacy protection.
+- 🌟 **Unlock method**: Support Face ID unlock (requires APP support, some apps don't) and gesture passcode unlock.
+- 🌟 **Privacy protection**: When the app goes back to the background, a masked layer (white and translucent colors are optional) will be displayed, providing better privacy protection.
 - 🌟 **No version restrictions**: This APP has no iOS version restrictions and APP restrictions, and is applicable to all versions and applications.
 - 🌟 **Supported languages**: Currently only Chinese and English are supported
 
