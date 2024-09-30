@@ -13,10 +13,10 @@
 ## 使用说明 Instructions
 - 🌟 **下载与注入**：下载 LPAPPLock.dylib 并使用工具进行注入。
 - 🌟 **巨魔用户**：巨魔用户可以直接使用 [TrollFools](https://github.com/Lessica/TrollFools) 进行注入。【[TrollStore](https://github.com/opa334/TrollStore?tab=readme-ov-file)】
-- 🌟 **签名工具**：也可以使用签名工具进行注入，例如[轻松签+](https://esing.yyyue.xyz/)等其他签名工具。
+- 🌟 **签名工具**：也可以使用签名工具对APP单独签名注入，例如[轻松签+](https://esing.yyyue.xyz/)等其他签名工具。
 - 🌟 **Download and Inject**: Download LPAPPLock.dylib and use the tool to inject.
 - 🌟 **Troll User**: Troll users can directly use [TrollFools](https://github.com/Lessica/TrollFools) to inject.
-- 🌟 **Signature Tool**: You can also use signature tools for injection, such as [Sideloadly](https://sideloadly.io/) and other signature tools.
+- 🌟 **Signature Tool**: You can also use the signature tool to inject a separate signature into the APP, such as [Sideloadly](https://sideloadly.io/) and other signature tools.
 
 ## 人脸验证 Face verification
 <img src="./image/1.png" alt="Screenshot" width="222" height="480"/>
