@@ -1,9 +1,5 @@
 # LPAppLock 给任意APP添加人脸和手势解锁
 
-[now-on-havoc]: https://havoc.app/package/lpapplock
-
-[<img width="150" src="https://docs.havoc.app/img/badges/get_square.svg" />][now-on-havoc]
-
 ## 功能说明 Function Description
 - 🌟 **解锁方式**：支持面容ID解锁（需要APP支持，有些APP不支持）和手势密码解锁。
 - 🌟 **隐私保护**：当APP退到后台时，会显示蒙层（可选白色和半透明色），提供更好的隐私保护效果。
